@@ -72,7 +72,7 @@ if (isMainThread) {
 
 ## worker.moveMessagePortToContext(port, contextifiedSandbox)
 <!-- YAML
-added: REPLACEME
+added: v12.0.0
 -->
 
 * `port` {MessagePort} The message port which will be transferred.
