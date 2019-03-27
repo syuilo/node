@@ -1374,7 +1374,7 @@ release.
 
 ## 2009.08.21, Version 0.1.5
 
-<a href="doc/changelogs/CHANGELOG_ARCHIVE.md#0.1.5>Moved to doc/changelogs/CHANGELOG_V6.md#6.0.0</a>.
+<a href="doc/changelogs/CHANGELOG_ARCHIVE.md#0.1.5">Moved to doc/changelogs/CHANGELOG_V6.md#6.0.0</a>.
 
 ## 2009.08.13, Version 0.1.4
 
